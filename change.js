@@ -1,1 +1,1 @@
-console.log("conflict 2.1");
+console.log("conflict 2");
